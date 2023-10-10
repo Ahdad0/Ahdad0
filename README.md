@@ -4,10 +4,12 @@ I am a software engineering student with a passion for coding and a strong desir
 
 ## 🌐 Socials:
 <div align="left">
-  <a href="https://twitter.com/https://twitter.com/ahdadabderrahim" target="_blank">
-    <img src="https://twitter.com/AhdadAbderrahim" width="52" height="40" alt="twitter logo"  />
+  <a href="https://twitter.com/AhdadAbderrahim" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
+
+###
 
 ###
 
