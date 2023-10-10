@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+👋+I'm+Abderrahim+Ahdad)](https://git.io/typing-svg)
 <h1 align="left">Hey 👋 I'm Abderrahim Ahdad</h1>
 # 💫 About Me:
 I am a software engineering student with a passion for coding and a strong desire to continuously learn new things. I believe that the key to success in the tech industry is to never stop learning and adapting to new technologies, trends, and techniques.<br><br>🌍 I'm from Morocco.<br><br><p align="left">📚 I'm currently learning</p><br>📫 How to reach me Abderrahimahdadabdo@gmail.com
