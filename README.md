@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+👋+I'm+Abderrahim+Ahdad)](https://git.io/typing-svg)
-## 💫 About Me:
+### 💫 About Me:
 I am a software engineering student with a passion for coding and a strong desire to continuously learn new things. I believe that the key to success in the tech industry is to never stop learning and adapting to new technologies, trends, and techniques.<br><br>🌍 I'm from Morocco.<br><br><p align="left">📚 I'm currently learning</p><br>📫 How to reach me Abderrahimahdadabdo@gmail.com
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 <div align="left">
   <a href="https://www.linkedin.com/in/abderrahim-ahdad-25a9b9237/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -13,9 +13,7 @@ I am a software engineering student with a passion for coding and a strong desir
   </a>
 </div>
 
-###
-
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
