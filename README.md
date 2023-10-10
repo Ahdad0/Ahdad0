@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+👋+I'm+Abderrahim+Ahdad)](https://git.io/typing-svg)
 ## 💫 About Me:
-I am a software engineering student with a passion for coding and a strong desire to continuously learn new things. I believe that the key to success in the tech industry is to never stop learning and adapting to new technologies, trends, and techniques.<br><br>🌍 I'm from Morocco.<br><br><p align="left">📚 I'm currently learning</p><br>📫 How to reach me Abderrahimahdadabdo@gmail.com
-
+I am a software engineering student with a passion for coding and a strong desire to continuously learn new things. I believe that the key to success in the tech industry is to never stop learning and adapting to new technologies, trends, and techniques.
+<li>🌍 I'm from Morocco.
+<li>📚 I'm currently learning.
+<li>📫 How to reach me Abderrahimahdadabdo@gmail.com
 
 ## 🌐 Socials:
 <div align="left">
@@ -31,6 +33,3 @@ I am a software engineering student with a passion for coding and a strong desir
 ![](https://github-readme-stats.vercel.app/api?username=Ahdad0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ahdad0&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahdad0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
