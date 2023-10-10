@@ -14,12 +14,6 @@ I am a software engineering student with a passion for coding and a strong desir
 
 ###
 
-###
-
-###
-
-###
-
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
