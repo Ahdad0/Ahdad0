@@ -3,7 +3,13 @@ I am a software engineering student with a passion for coding and a strong desir
 
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ahdadabderrahim) 
+<div align="left">
+  <a href="https://twitter.com/https://twitter.com/ahdadabderrahim" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
+###
 
 # 💻 Tech Stack:
 <div align="left">
