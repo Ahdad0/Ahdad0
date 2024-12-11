@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+👋+I'm+Abderrahim+Ahdad)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+👋+I'm+Abderrahim+Ahaded)](https://git.io/typing-svg)
 ## 💫 About Me:
 I am a software engineering student with a passion for coding and a strong desire to continuously learn new things. I believe that the key to success in the tech industry is to never stop learning and adapting to new technologies, trends, and techniques.
 <li>🌍 I'm from Morocco.
